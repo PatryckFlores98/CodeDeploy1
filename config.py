@@ -7,4 +7,4 @@ AWS_SESSION = "FwoGZXIvYXdzELL//////////wEaDOSUsiqSZaJ3WjkO6yLKAbHYb+ySGE10ijp67
 S3_BUCKET = "patryckflores"
 SECRET_KEY = os.urandom(32)
 DEBUG = False
-PORT = 5000
+PORT = 8080
